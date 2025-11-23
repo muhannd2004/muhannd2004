@@ -104,13 +104,9 @@ A full-stack web application for real estate transactions, allowing users to buy
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=muhannd2004&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" width="70%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhannd2004&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhannd2004&theme=synthwave" width="70%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhannd2004&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" width="70%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhannd2004&theme=synthwave" width="70%" />
 
 </div>
 
