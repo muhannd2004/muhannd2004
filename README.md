@@ -106,8 +106,6 @@ A full-stack web application for real estate transactions, allowing users to buy
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhannd2004&theme=synthwave" width="70%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhannd2004&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" width="70%" />
-
 </div>
 
 ---
